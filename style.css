@@ -215,6 +215,7 @@ nav{
 			position: absolute;
 			padding-bottom: 30px;
 			margin-bottom: 0px;
+			margin-top: 15px;
 			text-align: center;	
 
 		}	.lienjobResume{
@@ -717,7 +718,7 @@ ul{
 	#Screws{
 		margin:auto;
 		margin-top: 5px;
-		margin-bottom: 305px;
+		margin-bottom: 0px;
 		width: 300px;
 
 	}
@@ -725,6 +726,12 @@ ul{
 		text-align: center;
 		margin:auto;
 		margin-top: 0px;
+	}
+	#Plant{
+		text-align: center;
+		margin:auto;
+		margin-top: 300px;
+		margin-bottom: 0px;
 	}
 	#Screws .TextUnder{
 		opacity: 1;
@@ -734,7 +741,10 @@ ul{
 	#QueenBee .TextUnder{
 		opacity: 1;
 		font-size: 16px;
-
+	}
+	#Plant .TextUnder{
+		opacity: 1;
+		font-size: 16px;
 	}
 }
 
